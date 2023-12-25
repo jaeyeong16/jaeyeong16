@@ -8,3 +8,4 @@ http://finder.seoul.kr/<br>
 제2회 K-EDU 인공지능 로봇창작 FEST 장려상<br>
 WhiteHat School 1th<br>
 2023 Hacking Championship Junior 장려상<br>
+고등해커페스티벌 금상
